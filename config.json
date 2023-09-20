@@ -1,0 +1,62 @@
+[
+  {
+    "sshAdd": "fa23-cs425-7401.cs.illinois.edu",
+    "port": "1234",
+    "name": "VM1",
+    "inputPath": "/home/haozhew3/cs425/mp1/logs/"
+  },
+  {
+    "sshAdd": "fa23-cs425-7402.cs.illinois.edu",
+    "port": "1234",
+    "name": "VM2",
+    "inputPath": "/home/haozhew3/cs425/mp1/logs/"
+  },
+  {
+    "sshAdd": "fa23-cs425-7403.cs.illinois.edu",
+    "port": "1234",
+    "name": "VM3",
+    "inputPath": "/home/haozhew3/cs425/mp1/logs/"
+  },
+  {
+    "sshAdd": "fa23-cs425-7404.cs.illinois.edu",
+    "port": "1234",
+    "name": "VM4",
+    "inputPath": "/home/haozhew3/cs425/mp1/logs/"
+  },
+  {
+    "sshAdd": "fa23-cs425-7405.cs.illinois.edu",
+    "port": "1234",
+    "name": "VM5",
+    "inputPath": "/home/haozhew3/cs425/mp1/logs/"
+  },
+  {
+    "sshAdd": "fa23-cs425-7406.cs.illinois.edu",
+    "port": "1234",
+    "name": "VM6",
+    "inputPath": "/home/haozhew3/cs425/mp1/logs/"
+  },
+  {
+    "sshAdd": "fa23-cs425-7407.cs.illinois.edu",
+    "port": "1234",
+    "name": "VM7",
+    "inputPath": "/home/haozhew3/cs425/mp1/logs/"
+  },
+  {
+    "sshAdd": "fa23-cs425-7408.cs.illinois.edu",
+    "port": "1234",
+    "name": "VM8",
+    "inputPath": "/home/haozhew3/cs425/mp1/logs/"
+  },
+  {
+    "sshAdd": "fa23-cs425-7409.cs.illinois.edu",
+    "port": "1234",
+    "name": "VM9",
+    "inputPath": "/home/haozhew3/cs425/mp1/logs/"
+  },
+  {
+    "sshAdd": "fa23-cs425-7410.cs.illinois.edu",
+    "port": "1234",
+    "name": "VM10",
+    "inputPath": "/home/haozhew3/cs425/mp1/logs/"
+  }
+]
